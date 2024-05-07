@@ -1,0 +1,16 @@
+.app-container{
+  display: flex;
+}
+.main-content{
+  width: 100%;
+  margin-left: 280px;
+}
+.sidebar{
+  height: 100vh;
+  position: fixed;
+}
+.create-post{
+  width:80%;
+  margin: auto;
+  margin-top: 50px;
+}
